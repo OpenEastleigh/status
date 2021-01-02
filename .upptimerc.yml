@@ -23,7 +23,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Open Eastleigh Status
   introTitle: "Latest status of Open Eastleigh tools."
-  introMessage: **Note:** the Groupthink tool, which manages The Eastleigh Manifesto, sleeps after 30 mins of inactivity and can be slow to respond.
+  introMessage: "**Note:** the Groupthink tool, which manages The Eastleigh Manifesto, sleeps after 30 mins of inactivity and can be slow to respond."
   navbar:
     - title: Status
       href: /
