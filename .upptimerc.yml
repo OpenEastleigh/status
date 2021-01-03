@@ -21,14 +21,16 @@ user-agent: eom-bot
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
+  cname: status.openeastleigh.uk
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /status
+  # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Open Eastleigh Status
   introTitle: "Latest status of Open Eastleigh tools."
   introMessage: "**Note:** the Groupthink tool, which manages The Eastleigh Manifesto, sleeps after 30 mins of inactivity and can be slow to respond."
   navbar:
+    - title: Open Eastleigh
+      href: https://www.openeastleigh.uk/
     - title: Status
       href: /
     - title: GitHub
