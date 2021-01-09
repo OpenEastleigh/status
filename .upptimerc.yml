@@ -24,7 +24,7 @@ status-website:
   cname: status.openeastleigh.uk
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.openeastleigh.uk/images/logo.png
   name: Open Eastleigh Status
   introTitle: "Latest status of Open Eastleigh tools."
   introMessage: "**Note:** the Groupthink tool, which manages The Eastleigh Manifesto, sleeps after 30 mins of inactivity and can be slow to respond."
