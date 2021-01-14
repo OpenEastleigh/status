@@ -40,18 +40,20 @@
     "url": "https://groupthink.openeastleigh.uk",
     "icon": "https://favicons.githubusercontent.com/groupthink.openeastleigh.uk",
     "slug": "groupthink",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2866,
-    "timeDay": 1443,
-    "timeWeek": 4705,
-    "timeMonth": 2866,
-    "timeYear": 2866,
-    "dailyMinutesDown": {}
+    "time": 2784,
+    "timeDay": 1460,
+    "timeWeek": 4346,
+    "timeMonth": 2784,
+    "timeYear": 2784,
+    "dailyMinutesDown": {
+      "2021-01-14": 0
+    }
   },
   {
     "name": "Eastleigh Handbook",
