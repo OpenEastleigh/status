@@ -40,19 +40,19 @@
     "url": "https://groupthink.openeastleigh.uk",
     "icon": "https://favicons.githubusercontent.com/groupthink.openeastleigh.uk",
     "slug": "groupthink",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2784,
-    "timeDay": 1460,
-    "timeWeek": 4346,
-    "timeMonth": 2784,
-    "timeYear": 2784,
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 2777,
+    "timeDay": 1860,
+    "timeWeek": 4177,
+    "timeMonth": 2777,
+    "timeYear": 2777,
     "dailyMinutesDown": {
-      "2021-01-14": 0
+      "2021-01-14": 172
     }
   },
   {
