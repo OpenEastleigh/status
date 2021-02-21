@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 498,
-    "timeDay": 338,
-    "timeWeek": 410,
-    "timeMonth": 472,
-    "timeYear": 498,
+    "time": 500,
+    "timeDay": 589,
+    "timeWeek": 400,
+    "timeMonth": 468,
+    "timeYear": 500,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 282,
-    "timeWeek": 358,
-    "timeMonth": 272,
-    "timeYear": 279,
+    "time": 277,
+    "timeDay": 210,
+    "timeWeek": 354,
+    "timeMonth": 275,
+    "timeYear": 277,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/groupthink.openeastleigh.uk",
     "slug": "groupthink",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
-    "time": 6457,
-    "timeDay": 15460,
-    "timeWeek": 9455,
+    "uptimeYear": "99.76%",
+    "time": 6362,
+    "timeDay": 1119,
+    "timeWeek": 9443,
     "timeMonth": 9609,
-    "timeYear": 6457,
+    "timeYear": 6362,
     "dailyMinutesDown": {
       "2021-01-14": 172
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 392,
-    "timeWeek": 635,
-    "timeMonth": 557,
-    "timeYear": 565,
+    "time": 564,
+    "timeDay": 556,
+    "timeWeek": 644,
+    "timeMonth": 559,
+    "timeYear": 564,
     "dailyMinutesDown": {}
   }
 ]
