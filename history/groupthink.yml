@@ -1,7 +1,7 @@
 url: https://groupthink.openeastleigh.uk
-status: up
-code: 200
-responseTime: 18523
-lastUpdated: 2021-08-24T23:06:45.828Z
+status: degraded
+code: 500
+responseTime: 29104
+lastUpdated: 2021-08-25T23:06:23.789Z
 startTime: Sat Jan 02 2021 21:37:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
