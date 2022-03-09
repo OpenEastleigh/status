@@ -4,19 +4,19 @@
     "url": "https://www.openeastleigh.uk",
     "icon": "https://favicons.githubusercontent.com/www.openeastleigh.uk",
     "slug": "open-eastleigh",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 14307,
-    "timeWeek": 3953,
-    "timeMonth": 1537,
-    "timeYear": 703,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "87.38%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.97%",
+    "time": 670,
+    "timeDay": 9961,
+    "timeWeek": 3654,
+    "timeMonth": 1528,
+    "timeYear": 704,
     "dailyMinutesDown": {
-      "2022-03-09": 0
+      "2022-03-09": 182
     }
   },
   {
