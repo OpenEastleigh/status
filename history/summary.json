@@ -4,9 +4,9 @@
     "url": "https://www.openeastleigh.uk",
     "icon": "https://favicons.githubusercontent.com/www.openeastleigh.uk",
     "slug": "open-eastleigh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 979,
     "timeYear": 757,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2022-03-09": 182
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://groupthink.openeastleigh.uk",
     "icon": "https://favicons.githubusercontent.com/groupthink.openeastleigh.uk",
     "slug": "groupthink",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
@@ -54,6 +55,7 @@
     "timeMonth": 6695,
     "timeYear": 6397,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2022-01-29": 172,
       "2022-01-08": 147,
       "2021-11-16": 115,
