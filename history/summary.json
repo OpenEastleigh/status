@@ -68,17 +68,19 @@
     "url": "https://handbook.openeastleigh.uk",
     "icon": "https://favicons.githubusercontent.com/handbook.openeastleigh.uk",
     "slug": "eastleigh-handbook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
+    "time": 580,
     "timeDay": 417,
     "timeWeek": 549,
     "timeMonth": 522,
     "timeYear": 548,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-13": 0
+    }
   }
 ]
