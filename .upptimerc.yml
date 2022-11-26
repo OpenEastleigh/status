@@ -8,9 +8,6 @@ sites:
     url: https://www.openeastleigh.uk
   - name: The Eastleigh Manifesto
     url: https://manifesto.openeastleigh.uk
-  - name: Groupthink
-    url: https://groupthink.openeastleigh.uk
-    maxResponseTime: 20000
   - name: Eastleigh Handbook
     url: https://handbook.openeastleigh.uk
 
