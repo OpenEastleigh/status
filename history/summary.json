@@ -10,15 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 968,
-    "timeDay": 283,
-    "timeWeek": 470,
-    "timeMonth": 587,
-    "timeYear": 963,
+    "time": 966,
+    "timeDay": 375,
+    "timeWeek": 494,
+    "timeMonth": 585,
+    "timeYear": 959,
     "dailyMinutesDown": {
       "2022-10-14": 173,
-      "2022-08-25": 165,
-      "2022-04-14": 166
+      "2022-08-25": 165
     }
   },
   {
@@ -33,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 353,
-    "timeDay": 238,
-    "timeWeek": 326,
-    "timeMonth": 362,
-    "timeYear": 372,
+    "timeDay": 122,
+    "timeWeek": 312,
+    "timeMonth": 356,
+    "timeYear": 371,
     "dailyMinutesDown": {}
   },
   {
@@ -46,15 +45,15 @@
     "slug": "eastleigh-handbook",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "55.30%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.61%",
     "uptimeMonth": "97.71%",
     "uptimeYear": "99.11%",
-    "time": 863,
-    "timeDay": 28853,
-    "timeWeek": 4576,
-    "timeMonth": 1701,
-    "timeYear": 975,
+    "time": 918,
+    "timeDay": 26967,
+    "timeWeek": 8363,
+    "timeMonth": 2531,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2023-04-12": 644,
       "2023-04-05": 359,
