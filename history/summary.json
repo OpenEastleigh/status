@@ -6,17 +6,17 @@
     "slug": "open-eastleigh",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 627,
     "timeDay": 776,
     "timeWeek": 610,
     "timeMonth": 647,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2024-07-28": 0,
+      "2024-07-28": 34,
       "2023-09-12": 116
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-28": 67,
+      "2024-07-28": 101,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
