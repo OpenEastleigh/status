@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 668,
-    "timeDay": 878,
-    "timeWeek": 829,
-    "timeMonth": 829,
-    "timeYear": 679,
+    "time": 670,
+    "timeDay": 1152,
+    "timeWeek": 842,
+    "timeMonth": 844,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2024-07-28": 128
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 376,
-    "timeDay": 865,
-    "timeWeek": 540,
-    "timeMonth": 529,
-    "timeYear": 386,
+    "time": 377,
+    "timeDay": 809,
+    "timeWeek": 618,
+    "timeMonth": 543,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   },
   {
@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/handbook.openeastleigh.uk.ico",
     "slug": "eastleigh-handbook",
     "status": "down",
-    "uptime": "59.51%",
+    "uptime": "59.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-03": 117,
+      "2024-12-04": 117,
+      "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -417,8 +418,7 @@
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
-      "2023-12-06": 1440,
-      "2023-12-05": 1440
+      "2023-12-06": 1440
     }
   }
 ]
