@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 824,
-    "timeDay": 459,
-    "timeWeek": 774,
-    "timeMonth": 884,
-    "timeYear": 890,
-    "dailyMinutesDown": {
-      "2024-07-28": 128
-    }
+    "uptimeYear": "99.99%",
+    "time": 823,
+    "timeDay": 730,
+    "timeWeek": 730,
+    "timeMonth": 882,
+    "timeYear": 889,
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Eastleigh Manifesto",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 503,
-    "timeWeek": 539,
-    "timeMonth": 706,
-    "timeYear": 540,
+    "time": 492,
+    "timeDay": 828,
+    "timeWeek": 603,
+    "timeMonth": 725,
+    "timeYear": 541,
     "dailyMinutesDown": {}
   },
   {
@@ -43,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/handbook.openeastleigh.uk.ico",
     "slug": "eastleigh-handbook",
     "status": "down",
-    "uptime": "51.08%",
+    "uptime": "51.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -54,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-27": 153,
+      "2025-07-28": 149,
+      "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -417,8 +416,7 @@
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
-      "2024-07-29": 1440,
-      "2024-07-28": 1440
+      "2024-07-29": 1440
     }
   }
 ]
