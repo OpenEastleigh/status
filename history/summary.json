@@ -4,9 +4,9 @@
     "url": "https://www.openeastleigh.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.openeastleigh.uk.ico",
     "slug": "open-eastleigh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 948,
     "timeMonth": 973,
     "timeYear": 1039,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-25": 0
+    }
   },
   {
     "name": "The Eastleigh Manifesto",
@@ -41,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/handbook.openeastleigh.uk.ico",
     "slug": "eastleigh-handbook",
     "status": "down",
-    "uptime": "41.94%",
+    "uptime": "41.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 208,
+      "2026-07-25": 1148,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
