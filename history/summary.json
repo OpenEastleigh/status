@@ -4,20 +4,20 @@
     "url": "https://www.openeastleigh.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.openeastleigh.uk.ico",
     "slug": "open-eastleigh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.97%",
-    "time": 1008,
-    "timeDay": 1182,
-    "timeWeek": 1019,
-    "timeMonth": 966,
-    "timeYear": 1042,
+    "uptimeDay": "88.68%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.94%",
+    "time": 1007,
+    "timeDay": 980,
+    "timeWeek": 989,
+    "timeMonth": 960,
+    "timeYear": 1041,
     "dailyMinutesDown": {
       "2026-07-25": 165,
-      "2026-08-04": 0
+      "2026-08-04": 163
     }
   },
   {
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-04": 349,
+      "2026-08-04": 512,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
