@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1044,
-    "timeDay": 652,
-    "timeWeek": 960,
-    "timeMonth": 1150,
+    "time": 1043,
+    "timeDay": 718,
+    "timeWeek": 992,
+    "timeMonth": 1133,
     "timeYear": 1077,
     "dailyMinutesDown": {
       "2026-07-25": 165,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 412,
-    "timeWeek": 662,
-    "timeMonth": 524,
-    "timeYear": 627,
+    "time": 625,
+    "timeDay": 545,
+    "timeWeek": 670,
+    "timeMonth": 535,
+    "timeYear": 626,
     "dailyMinutesDown": {}
   },
   {
@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/handbook.openeastleigh.uk.ico",
     "slug": "eastleigh-handbook",
     "status": "down",
-    "uptime": "39.73%",
+    "uptime": "39.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -55,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-15": 363,
+      "2026-11-16": 363,
+      "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
       "2026-11-12": 1440,
@@ -418,8 +419,7 @@
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
-      "2025-11-17": 1440,
-      "2025-11-16": 1440
+      "2025-11-17": 1440
     }
   }
 ]
